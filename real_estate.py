@@ -120,3 +120,4 @@ app.mainloop()
 # Close MySQL connection on exit
 cursor.close()
 conn.close()
+
